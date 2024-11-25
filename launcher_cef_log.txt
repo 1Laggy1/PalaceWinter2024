@@ -1,0 +1,4 @@
+[1125/194029.127:WARNING:alloy_main_delegate.cc(559)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[1125/194029.175:INFO:main_context.cpp(131)] CEF initialized successfully.
+[1125/194029.175:INFO:main_context.cpp(133)] CEF version: 127.3.5+g114ea2a+chromium-127.0.6533.120
+[1125/195740.920:FATAL:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!

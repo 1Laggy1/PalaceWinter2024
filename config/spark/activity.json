@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "1_Laggy_1",
+      "uniqueId": "37874bdb-27cb-42b1-bafd-d718c4dbfb99"
+    },
+    "time": 1732554606569,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Zq016L4IxN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "1_Laggy_1",
+      "uniqueId": "37874bdb-27cb-42b1-bafd-d718c4dbfb99"
+    },
+    "time": 1732554509461,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YjFPzOCdso"
+    }
+  }
+]

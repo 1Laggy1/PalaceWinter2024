@@ -1,0 +1,7 @@
+#556 minecraft:beach
+#6DD regions_unexplored:grassy_beach
+#79A minecraft:lukewarm_ocean
+#219 regions_unexplored:meadow
+#4D4 regions_unexplored:muddy_river
+#5FF minecraft:river
+#67B minecraft:savanna
