@@ -1,0 +1,2 @@
+#Mon Nov 25 18:17:15 EET 2024
+BorderFog=false
